@@ -79,7 +79,7 @@ theme: aircloud
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/helloztt/helloztt_hexo.git
+  repo: https://github.com/helloztt/helloztt.github.io.git
   branch: master
 
 # Build settings
